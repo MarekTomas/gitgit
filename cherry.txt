@@ -1,0 +1,7 @@
+select * from tabela;
+update tabela 1 set koko koko euro spoko
+select * from tabela 2;
+select * from tabela 2;
+#komentarz
+zmiana pliku
+
