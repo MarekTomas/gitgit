@@ -1,0 +1,1 @@
+gdy strumyk plynie z wolna
